@@ -1,0 +1,38 @@
+/*
+* Estilos para mi pagina web en github pages	
+*/
+
+:root {
+    --primary: #8434bd;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    background: #eee;
+    color: #000;
+}
+
+.title {
+    font-size: 2rem;
+    line-height: 1em;
+}
+
+.welcome {
+    font-size: 1rem;
+    line-height: 1em;
+    color: var(--primary);
+}
+
+.full-row {
+    width: 100%;
+}
+
+.md-row {
+    width: 50%;
+}
