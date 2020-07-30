@@ -28,3 +28,11 @@ body {
     line-height: 1em;
     color: var(--primary);
 }
+
+.full-row {
+    width: 100%;
+}
+
+.md-row {
+    width: 50%;
+}
